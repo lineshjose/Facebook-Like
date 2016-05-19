@@ -7,11 +7,11 @@ This is a Facebook Like Free WordPress theme.
 ------------------------------------
 Both the design and code are released under a Creative Commons Attribution 3.0 Unported License( http://creativecommons.org/licenses/by/3.0/) . You can cahnge entire theme as you like and it's only  allowed  for personal use.  Please  leave all of the default copyright images or links coded in footer template file of the theme.
 
-Example: " Theme by <a href="http://lineshjose.com">Linesh Jose</a> "
+Example: " Theme by <a href="http://linesh.com">Linesh Jose</a> "
 
 PLEASE WHAT EVER YOU DO, DO NOT EDIT THIS OR ATTEMPT TO DELETE IT. If we find people editing the copyright, action will be taken further.
   
-This is a free theme, I didn't create this in my spare time.. the least you can do is leave credit to our site. Please do not remove the below <a href="http://lineshjose.com">www.lineshjose.com</a> free theme copyright. Removing the copyright without our permission is violating copyright laws. We regularly search for pirated sites which have stolen our copyright, using search techniques and bots and then we take legal action further. 
+This is a free theme, I didn't create this in my spare time.. the least you can do is leave credit to our site. Please do not remove the below <a href="http://linesh.com">lineshjose.com</a> free theme copyright. Removing the copyright without our permission is violating copyright laws. We regularly search for pirated sites which have stolen our copyright, using search techniques and bots and then we take legal action further. 
 
 
 Removal Of Copyright: 
