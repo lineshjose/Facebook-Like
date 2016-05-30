@@ -22,17 +22,21 @@ If you would like to legally remove the copyright, please donate $5.00 or someth
 
 Installation:
 ------------------------------------
-1: Extract the downloaded .zip file in a convenient location
+1: Download "**facebook-like.zip**" file and upload it into WordPress using "Add New" under themes section in WP admin. 
 
-2: upload the "facebook-like" folder located to '/wp-content/themes/' directory in your web server.
+2: Activate the theme.
 
-3: Log in to the WordPress Administration Dashboard
+OR
 
-4: Select the 'Themes' sub-menu from 'Appearance' menu
+1: Download and extract "**facebook-like.zip**" file, upload the "facebook-like" folder to '/wp-content/themes/' directory in your web server.
 
-5: Select the 'Facebook' theme from the available list of themes to preview
+2: Log in to the WordPress Administration Dashboard
 
-6: Activate the theme.
+3: Select the 'Themes' sub-menu from 'Appearance' menu
+
+4: Select the 'Facebook' theme from the available list of themes to preview
+
+5: Activate the theme.
 
 OR
 
