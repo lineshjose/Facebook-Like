@@ -1,6 +1,6 @@
 Facebook Like
 ====================================
-This is a Facebook Like Free WordPress theme.
+A free WordPress theme.
 
 
  Theme Copyright:   
