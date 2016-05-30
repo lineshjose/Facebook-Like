@@ -16,7 +16,7 @@ This is a free theme, I didn't create this in my spare time.. the least you can 
 
 Removal Of Copyright: 
 ------------------------------------
-If you would like to legally remove the copyright, please send an email to lineshjose[at]gmail.com stating this theme name. I will then reply back with our PayPal.com address so you can send payment. Copyright removal costs a small fee of $5.00  :)
+If you would like to legally remove the copyright, please donate $5.00 or something here: http://linesh.com/make-a-donation/.
 
 
 
@@ -40,8 +40,7 @@ Watch this video: https://youtu.be/4-65ohSj55c
 	
 Please help me, I'm stuck!
 ------------------------------------
-We all know people need help with editing from time to time, which is why I offer free help in numerus way's. If you  need support please post on this theme's post page or contact via my email id  lineshjose[AT]gmail.com.
-
+We all know people need help with editing from time to time, which is why I offer free help in numerus way's. If you  need support please post  herer http://linesh.com/forums/forum/themes/facebook-like/
 	
 
 	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
