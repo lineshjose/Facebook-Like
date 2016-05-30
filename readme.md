@@ -24,7 +24,7 @@ Installation:
 ------------------------------------
 1: Extract the downloaded .zip file in a convenient location
 
-2: upload the "facebook-like" folder located in "theme" folder to '/wp-content/themes/' directory in your web server.
+2: upload the "facebook-like" folder located to '/wp-content/themes/' directory in your web server.
 
 3: Log in to the WordPress Administration Dashboard
 
