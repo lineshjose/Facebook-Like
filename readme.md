@@ -1,5 +1,5 @@
 # Facebook-Like
-A free Facebook like WordPress theme.
+A Facebook like free WordPress theme.
 
 ![beautiful screenshot](./screenshot.png)
 
